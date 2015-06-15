@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">阅读器</string>
+    <string name="settings">设置</string>
+    <string name="bookstore">书架</string>
+    <string name="category">分类</string>
+    <string name="author">作者：</string>
+    <string name="retry">再试一次</string>
+    <string name="search_tips">输入要搜索的书名</string>
+    <string name="load_more">正在加载数据......</string>
+    <string name="download_src">下载点：</string>
+    <string name="description">简介</string>
+    <string name="no_description">暂无</string>
+    <string name="btn_download">下载本书</string>
+    <string name="unknown_src">未知下载源</string>
+    <string name="no_download_src">没有下载源！</string>
+    <string name="select_src">选择下载源</string>
+    <string name="no_data">没有更多数据了！</string>
+
+</resources>
